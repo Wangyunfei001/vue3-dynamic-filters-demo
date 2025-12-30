@@ -9,7 +9,7 @@
       "server": "node server/mockServer.js"
     },
     "dependencies": {
-      "ant-design-vue": "^3.2.24",
+      "ant-design-vue": "^4.2.6",
       "axios": "^1.4.0",
       "dayjs": "^1.11.9",
       "vue": "^3.2.47",
